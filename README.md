@@ -38,7 +38,7 @@ A class that stores integers and calculates statistical spans.
 
 ---
 
-### Exercise 02: MutantStack
+### Exercise 02: Mutated abomination
 
 An iterable stack implementation inheriting from `std::stack`.
 
